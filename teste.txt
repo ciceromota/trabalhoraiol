@@ -1,1 +1,9 @@
 ola mundo
+
+git clone https://github.com/ciceromota/trabalhoraiol.git Raiol // baixa tudo do github
+
+git add . //adiciona o arquvos
+
+git commit -m "criei o arquivos" // cria commit do arquivo
+
+git push // sobe tudo para o repositorio
